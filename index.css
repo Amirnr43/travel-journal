@@ -1,0 +1,106 @@
+html, body {
+    margin: 0;
+}
+
+header {
+    background-color: #d96560;
+    width: 100%;
+    padding: 20px 0px;
+    top: 0;
+    z-index: 100;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+nav > h1 {
+    font-family: Inter , sans-serif;
+    font-weight: 500;
+    font-size: 14.46px;
+    line-height: 100%;
+    letter-spacing: -0.075em;
+    color: white;
+}
+nav > img {
+    width: 24px;
+    height: 24px;
+}
+.entry {
+
+    width: 470px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 0 auto;
+    padding-top: 40px;
+    margin-bottom: 10px ;
+    flex-direction: row;
+}
+.textcontent{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.entry-wrapper{
+ max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 40px; /* space between entries */
+  padding: 40px 20px;
+}
+.imageparent{
+    width: 500px;
+    height: 168px;
+    overflow: hidden;
+}
+.pic{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+    
+}
+.marker {
+    width: 7px;
+    height: 9.55px;
+}
+.country {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 0.64rem;
+    line-height: 100%;
+    letter-spacing: 0.17em;
+    margin-right: 10px;
+    margin-left: 5px;
+}
+.googlelink1 {
+    color: #918E9B;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 0.64rem;
+    line-height: 100%;
+}
+.title {
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 100%;
+    letter-spacing: 0;
+}
+.title > small {
+    display: block;
+    font-size: 0.64rem;
+}
+.content {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 0.64rem;
+    line-height: 150%;
+    letter-spacing: 0;
+}
