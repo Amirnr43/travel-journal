@@ -6,7 +6,7 @@ A sleek and interactive travel diary app built with **React** and **Vite**, desi
 
 
 ## 🌍 Overview
-
+![localhost_5173_](https://github.com/user-attachments/assets/f59a66bb-75ae-4f05-9a9a-c838e677e1ef)
 Travel Journal lets users capture and showcase memorable travel experiences by posting location-based entries complete with images, dates, and descriptions.
 
 ---
@@ -26,7 +26,8 @@ Travel Journal lets users capture and showcase memorable travel experiences by p
 
 | Technology        | Purpose                             |
 |-------------------|-------------------------------------|
-| **React**         | Component-based UI & state logic    |
+| **React**         | Comp![localhost_5173_](https://github.com/user-attachments/assets/2ff0d52b-0543-4fd3-86f1-b6ec37cd5c4a)
+onent-based UI & state logic    |
 | **Vite**          | Rapid build and development server  |
 | **CSS / Flexbox** | Styling & layout optimization       |
 | **Local Images**  | Media management for travel logs    |
@@ -52,3 +53,4 @@ npm install
 
 # Start the dev server
 npm run dev
+
