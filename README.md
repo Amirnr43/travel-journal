@@ -4,11 +4,6 @@ A sleek and interactive travel diary app built with **React** and **Vite**, desi
 
 ---
 
-## 🚀 Live Demo
-
-Try it out here: *[Insert your live deployment link — e.g., Netlify, Vercel, GitHub Pages]*
-
----
 
 ## 🌍 Overview
 
