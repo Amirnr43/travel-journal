@@ -26,7 +26,7 @@ Travel Journal lets users capture and showcase memorable travel experiences by p
 
 | Technology        | Purpose                             |
 |-------------------|-------------------------------------|
-| **React**         | Comp![localhost_5173_](https://github.com/user-attachments/assets/2ff0d52b-0543-4fd3-86f1-b6ec37cd5c4a)
+| **React**         | Comp
 onent-based UI & state logic    |
 | **Vite**          | Rapid build and development server  |
 | **CSS / Flexbox** | Styling & layout optimization       |
